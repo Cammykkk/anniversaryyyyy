@@ -20,7 +20,7 @@ body {
 
 /* --- ESTILOS DE LA PÁGINA INDEX --- */
 .index-page {
-    background-image: url('https://static.vecteezy.com/system/resources/previews/042/818/355/non_2x/8bit-pixel-graphic-blue-sky-background-with-clouds-vector.jpg'); /* Imagen de fondo de videojuego */
+    background-image: url('https://static.wikia.nocookie.net/minecraft_gamepedia/images/0/03/Dirt_background_BE2.png/revision/latest?cb=20210820065338.jpg'); /* Imagen de fondo de videojuego */
     background-size: cover;
     background-position: center;
     min-height: 100vh;
@@ -887,3 +887,4 @@ body {
     }
 
 }
+
